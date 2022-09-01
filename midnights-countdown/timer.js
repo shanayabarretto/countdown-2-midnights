@@ -1,3 +1,5 @@
+// function from w3 schools
+// https://www.w3schools.com/howto/howto_js_countdown.asp
 function time(){
     // Set the date we're counting down to
     var countDownDate = new Date("Oct 21, 2022 00:00:00").getTime();
